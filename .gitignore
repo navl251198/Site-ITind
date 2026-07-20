@@ -1,0 +1,6 @@
+# Системные файлы Windows и редакторов
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+*.log
